@@ -10,7 +10,7 @@ const CONFIG = {
     question: 'Sao bé lại yêu anh vậy ạ <3',
     btnReply: 'Gửi cho tình yêu của em <3',
     reply: 'Em yêu anh. Mấy thằng khác cút mọe đi hahahaha',
-    mess: 'Anh biết em sẽ nói thé mà 🥰. Yêu em nhiều nhiều 😘😘',
+    mess: 'Anh biết em sẽ nói thế mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Bé đón sinh nhật cùng anh nha .',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/dung.thang.9638/' 
